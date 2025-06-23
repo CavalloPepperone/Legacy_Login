@@ -30,11 +30,4 @@ Watch a demo of the script here:
 
 ---
 
-## 📬 Contact
-
-Feel free to contact me on **Discord**:  
-`cavallopepperone_1`
-
----
-
 **Thanks for checking it out!**
